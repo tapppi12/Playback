@@ -1,6 +1,6 @@
 {
   "ver": "1.0.0",
-  "force": true,
+  "force": false,
   "upUrl": "https://user-update-link.com",
   "tg": "https://t.me/user_channel",
   "wa": "https://wa.me/xxx",
